@@ -1,0 +1,130 @@
+section{
+    background-color: white;
+}
+
+div{
+    font-family: "Inter", sans-serif;
+}
+
+.d-flex{
+    margin-right: 20px;
+}
+
+.d-flex a{
+    font-family:"Inter", sans-serif;
+    font-weight: 800;
+}
+
+.logo img{
+    margin: 12px 0px 12px 50px;
+    width: 250px;
+}
+
+.presentation p{
+    color:black;
+    font-size: 30px;
+    font-weight: 800;
+    margin: 100px 0 100px 250px;
+}
+
+.presentation img{
+    width: 300px;
+    margin: 40px 0 100px 0;
+}
+
+form{
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    width: 650px;
+}
+
+form div{
+    padding-bottom: 20px;
+}
+
+.CEP{
+    font-family:"Inter", sans-serif;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+
+.CEP p{
+    font-size: 15px;
+}
+
+.desc-cep{
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+
+.CEP img{
+    width: 90px;
+    max-width: 100%;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.b-up{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.b-up p{
+    padding-top: 10px;
+}
+
+.b-down{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 0px 0px 15px 15px;
+    background-color: white;
+}
+
+.b-down p{
+    padding-top: 10px;
+}
+
+.tempo{
+    font-family:"Inter", sans-serif;
+    font-weight: 800;
+    margin-bottom: 300px;
+    width: 200px;
+    align-items: center;
+}
+
+.tempo img{
+    width: 90px;
+    max-width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.info-temp{
+    display: flex;
+    justify-content: space-around;
+    border-radius:  15px;
+    background-color: white;
+    border: 1px solid #0C70F2;
+}
+
+.info-temp p{
+    padding-top:15px;
+}
+
+.rodape{
+    font-family:"Inter", sans-serif;
+    font-weight: 800;
+}
+
+.b-down input{
+    border: none;
+    font-family:"Inter", sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
